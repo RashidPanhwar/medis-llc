@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css';
-import { IoMdMail } from "react-icons/io";
+// import { IoMdMail } from "react-icons/io";
 import { FaPhoneAlt } from "react-icons/fa";
 
 const Footer = () => {
