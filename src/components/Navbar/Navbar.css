@@ -1,0 +1,71 @@
+.navba-main-container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.top-banner{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    height: 30px;
+    padding: 0 120px;
+}
+
+.banner-icon-div{
+    display: flex;
+    gap: 30px;
+}
+
+.baneer-contact-div{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.baneer-contact-div span{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.baneer-contact-div span p{
+    font-size: 13px;
+    line-height: 21px;
+    font-weight: 400;
+}
+
+.navbar-items{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+    padding: 0 120px;
+    border-top: 1px solid silver;
+    background-color: #f8f8f8;
+}
+
+.logo-div{
+    display: flex;
+}
+
+.men-item-div{
+    display: flex;
+    gap: 30px;
+}
+
+.navbar-items p{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+.men-item-div p a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
