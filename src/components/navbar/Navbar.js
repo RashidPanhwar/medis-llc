@@ -8,7 +8,7 @@ const Navbar = () => {
     
     >
         <div className='flex w-2/6 items-center justify-start gap-5'>
-            <img src='/assets/medis-llc.png' alt='logo' className='w-16 h-auto' />
+            <image src='/assets/medis-llc.png' alt='logo' className='w-16 h-auto' />
             <h3 className='text-4xl text-white font-bold'>MEDIS LLC</h3>
         </div>
         <div className='flex'>

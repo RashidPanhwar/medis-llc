@@ -51,7 +51,7 @@ const Services = () => {
             key={index}
             className="w-1/4 flex flex-col flex-shrink-0 gap-3 p-4 items-center justify-center"
           >
-           <img src={card.icon} alt='icon' className='w-30 h-20 ' />
+           <image src={card.icon} alt='icon' className='w-30 h-20 ' />
            <h3 className='text-2xl text-black font-bold text-center'>{card.name}</h3>
            <p className='text-center text-sm text-gray-400'>{card.desc}</p> 
           </div>

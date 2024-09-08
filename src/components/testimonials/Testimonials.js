@@ -57,7 +57,7 @@ const Testimonials = () => {
                         <h3 className='text-lg text-black font-semibold'>{items.name}</h3>
                         <p className='text-sm text-gray-400 font-light'>{items.designation}</p>
                     </span>
-                    <img src={items.icon} alt='icon' className='w-10 h-10'/>
+                    <image src={items.icon} alt='icon' className='w-10 h-10'/>
                 </div>
             </div>
         ))}
