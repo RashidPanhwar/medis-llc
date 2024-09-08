@@ -1,0 +1,9 @@
+.location-main-div{
+    /* background-image: url('../../assets/bg-for-footer.png');  */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: rotate-bg 5s infinite linear; /* Adjust the duration as needed */
+    /* transform: rotate(180deg); */
+    
+}

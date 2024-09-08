@@ -1,0 +1,7 @@
+.main-nav{
+    background-image: url('../../assets/medis-llc.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 120px !important;
+}

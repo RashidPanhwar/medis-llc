@@ -1,0 +1,15 @@
+.scrollbar-thin::-webkit-scrollbar{
+    display: flex;
+    width: 40px;
+    height: 4px;
+    background-color: gray;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+    background: gainsboro;        /* color of the tracking area */
+  }
+  
+.scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: gray;    /* color of the scroll thumb */
+    border-radius: 10px;       /* roundness of the scroll thumb */
+  }
