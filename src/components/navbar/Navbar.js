@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll';
+import Image from 'next/image';
 
 const Navbar = () => {
   return (

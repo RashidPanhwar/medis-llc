@@ -1,5 +1,5 @@
 import React from 'react'
-// import './ComprehansiveExperties.css';
+import Image from 'next/image'
 
 const CompExperties = () => {
   return (

@@ -1,5 +1,6 @@
 "use-client"
 import './Services.css'
+import Image from 'next/image';
 
 const Services = () => {
   const cards = [
