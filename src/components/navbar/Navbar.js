@@ -1,8 +1,5 @@
-import Link from 'next/link'
 import React from 'react'
-import navBg from '../../assets/bg-for-nav.png';
 import './Navbar.css'
-import logo from '../../assets/medis-llc.png';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Navbar = () => {

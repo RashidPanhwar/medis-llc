@@ -3,7 +3,6 @@ import { FaFacebookF } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { RiLinkedinLine } from "react-icons/ri";
 import { FaInstagram } from "react-icons/fa";
-import Link from 'next/link';
 
 const Footer = () => {
     const socialIcons = [<FaFacebookF size={20} className='text-white' />, 
