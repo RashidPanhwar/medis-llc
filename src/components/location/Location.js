@@ -43,7 +43,7 @@ const MyLocation = () => {
                 <p className='text-lg uppercase text-gray-400 font-semibold'>Contact Us</p>
                 <h3 className='text-3xl text-gray-400 font-black'>Say <span className='text-pink-300'>Hello</span></h3>
                 <p className='text-sm text-gray-400 justify-start leading-6'>
-                    IF you need a working contact form by PHP script, please visit TemplateMo's 
+                    IF you need a working contact form by PHP script, please visit TemplateMos 
                     contact page for more info.
                 </p>
                 <input type='text' placeholder='Ful Name' className='h-10 w-full rounded-md bg-[#f4f7fb] outline-none 

@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
         </div>
         <div className='flex w-2/4 items-center justify-center'>
-            <img src="/assets/hero/About-Page-health_Image.jpg" alt='img' className='w-96 h-96 rounded-lg shadow-lg' />
+            <image src="/assets/hero/About-Page-health_Image.jpg" alt='img' className='w-96 h-96 rounded-lg shadow-lg' />
             {/* <img src={heroImage} alt='img' /> */}
         </div>
     </div>
