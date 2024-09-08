@@ -5,17 +5,17 @@ import { RiLinkedinLine } from "react-icons/ri";
 import { FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
-    const socialIcons = [<FaFacebookF size={20} className='text-white' />, 
-    <FaSquareXTwitter size={20} className='text-white' />, 
-    <RiLinkedinLine size={20} className='text-white' />, 
-    <FaInstagram size={20} className='text-white' />]
+    const socialIcons = [FaFacebookF, 
+    FaSquareXTwitter, 
+    RiLinkedinLine, 
+    FaInstagram]
   return (
     <div className='flex flex-col w-full items-center justify-center p-4'>
         <div className='flex w-full items-center justify-center gap-5'>
         {socialIcons.map((items, index) => (
             <a key={index} className='flex items-center justify-center  cursor-pointer
                 bg-gradient-to-r from-orange-500 via-pink-500 to-pink-500 p-3 rounded-lg shadow-lg'>
-                {items}
+                {<items size={20} className='text-white' />}
             </a>
         ))}
         </div>
